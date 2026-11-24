@@ -1,0 +1,9 @@
+# Office documents
+*.docx
+*.doc
+*.xlsx
+*.xls
+~$*
+
+# macOS
+.DS_Store
